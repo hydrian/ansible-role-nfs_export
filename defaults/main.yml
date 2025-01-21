@@ -1,2 +1,4 @@
 ---
-
+allowed_hosts_list:
+  - '*'
+options: null
